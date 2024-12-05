@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning Everything I like.
 - 💬 Ask me about anything related to Java/Python.
-- 📫 How to reach me: 847734623@qq.com
+- 📫 How to reach me: 84xxxxxx@qq.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
