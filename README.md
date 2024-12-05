@@ -7,7 +7,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Chen's GitHub stats](https://github-readme-stats.vercel.app/api?username=patricia-email&show_icons=true&theme=transparent)
+![Chen's GitHub stats](https://github-readme-stats.vercel.app/api?username=patricia-email&count_private=true&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patricia-email&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
 
